@@ -1,4 +1,4 @@
-Hi I'm Neelanchal Agarkar, a passionate Machine Leaarning Developer.
+Hi I'm Neelanchal Agarkar, a passionate Machine Learning Developer.
 	1.	Data Availability
 The dataset used for building this predictive model is confidential, and therefore not included in this repository. I apologize for any inconvenience this may cause.
 	2.	Checksum File
